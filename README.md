@@ -5,7 +5,7 @@ Using linear programming to solve the tents and trees game often found in newspa
 - Tents can only be planted next to trees (horizontally or vetrically)
 - Tents do not touch each other, not even diagonally.
 
-The repository contains a notebook thats solve the following example using linear programming in python:
+The repository contains a [notebook](https://github.com/rrodenburg/tents_n_trees/blob/master/tents_n_trees.ipynb) in which we solve the following example using linear programming in python:
 
 ![alt text](https://github.com/rrodenburg/tents_n_trees/blob/master/example.png "Example of a Tents and trees game")
 
