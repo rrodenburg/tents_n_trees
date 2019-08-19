@@ -1,2 +1,5 @@
 # Jupyter checkpoints
-./ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# VS code files
+.vscode
