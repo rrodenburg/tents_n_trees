@@ -1,13 +1,15 @@
 # Tents and Trees.
-Using linear programming to solve the tents and trees game often found in newspapers. Tents and trees is a game where tents have to be placed on a campsite by following these rules:
+Tents and trees is a puzzle often found in newspapers. To solve the puzzle, tents have to be placed on a campsite by following these rules:
 
 - The numbers outside the grid show how many tents in that row or column.
 - Tents can only be planted next to trees (horizontally or vetrically)
 - Tents do not touch each other, not even diagonally.
 
+This repository 
+
 The repository contains a [notebook](https://github.com/rrodenburg/tents_n_trees/blob/master/tents_n_trees.ipynb) in which we solve the following example using linear programming in python:
 
-![alt text](https://github.com/rrodenburg/tents_n_trees/blob/master/example.png "Example of a Tents and trees game")
+![alt text](./examples/example1.png "Example of a Tents and trees game")
 
 
 ## Solution
